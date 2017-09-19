@@ -4,7 +4,7 @@ defmodule Buby.Mixfile do
   def project do
     [
       app: :buby,
-      version: "0.1.0",
+      version: "0.0.1",
       elixir: "~> 1.5",
       start_permanent: Mix.env == :prod,
       deps: deps()
