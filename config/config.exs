@@ -10,11 +10,11 @@ use Mix.Config
 
 # You can configure your application as:
 #
-#     config :biox, key: :value
+#     config :xiob, key: :value
 #
 # and access this configuration in your application as:
 #
-#     Application.get_env(:biox, :key)
+#     Application.get_env(:xiob, :key)
 #
 # You can also configure a third-party app:
 #

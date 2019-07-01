@@ -1,6 +1,6 @@
-defmodule Biox do
+defmodule Xiob do
   @moduledoc """
-  Documentation for Biox.
+  Documentation for Xiob.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule Biox do
 
   ## Examples
 
-      iex> Biox.hello()
+      iex> Xiob.hello()
       :world
 
   """
